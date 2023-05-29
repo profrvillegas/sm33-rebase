@@ -5,3 +5,6 @@ Evaluación práctica de git
 3. Obten los últimos cambios del respositorio remoto
 4. Aplica rebase a tu rama
 5. Resuelve los conflictos que se puedan presentar
+6. Publica los cambios
+
+Fin de la práctica :)
